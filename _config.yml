@@ -1,0 +1,28 @@
+name: aje
+favicon: null
+layout_spectrum: 0.3035225498024374
+typography_spectrum: 0.1582077220082283
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9303284015040845
+  lightness: 0.9343960594851524
+  saturation: 0.3168293747585267
+  rhythmicContrast: 0.48018119344487786
+purpose: []
