@@ -1,7 +1,7 @@
 name: aje
 favicon: null
 layout_spectrum: 0.3035225498024374
-typography_spectrum: 0.1582077220082283
+typography_spectrum: 0.6103
 title: AJE Creative LLC.
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#3E363F'
     - '#DD403A'
   brandStrength: 0.9303284015040845
-  lightness: 0.9343960594851524
+  lightness: 0.1875
   saturation: 0.3168293747585267
-  rhythmicContrast: 0.48018119344487786
+  rhythmicContrast: 0.25
 purpose: []
